@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connor Wilkinson</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Connor Wilkinson</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© 2024, lee.so</copyright>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am currently a Master&amp;rsquo;s student at the University of Michigan studying computer science, graduating in spring 2025. I have experience working on many different areas of artificial intelligence, from traditional machine learning to computer vision to GPU kernel optimization.&#xA;Recently, I have been especially interested in building efficient and scalable machine learning systems.&lt;/p&gt;&#xA;&lt;p&gt;During my free time, I enjoy going to the gym, playing soccer, and playing card/board games.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Connect with me! &lt;a href=&#34;https://www.linkedin.com/in/connorwilkinson11/&#34;&gt;linkedin.com/in/connorwilkinson11/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Email me: &lt;a href=&#34;mailto:wilkincr@umich.edu&#34;&gt;wilkincr [at] umich [dot] edu&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
