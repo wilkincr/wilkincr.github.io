@@ -1,7 +1,7 @@
 baseURL = "https://wilkincr.github.io"
 # title = "Hugo Themes"
-author = "Steve Francia"
-copyright = "© 2024, lee.so"
+author = "Connor Wilkinson"
+copyright = "© 2024, Connor Wilkinson"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
